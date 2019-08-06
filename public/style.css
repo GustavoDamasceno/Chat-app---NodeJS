@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+    background: url(http://www.it.kmitl.ac.th/~it58070087/blog/wp-content/uploads/2016/03/blue-universe-fantasy-hd-wallpaper-1920x1200-50091.jpg) no-repeat;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #chat {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  input {
+    width: 600px;
+    border: 1px solid #ddd;
+    outline: none;
+    background: none;
+    height: 50px;
+    padding: 0 20px;
+    font-size: 14px;
+    color: white;
+  }
+  
+  button {
+    width: 600px;
+    height: 50px;
+    font-size: 14px;
+    background: #4caf50;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+    color: #FFF;
+    margin-top: 10px;
+  }
+  
+  .messages {
+    width: 600px;
+    height: 400px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 20px;
+    color: white;
+    font-family: bold;
+    
+  }
