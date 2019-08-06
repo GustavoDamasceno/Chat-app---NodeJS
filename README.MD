@@ -7,7 +7,7 @@
 
 ## 1. Introdução
 
-Chat em tempo real, utilizando **nodeJS**, **express** e  **socket.io**. Como o sistema não está conectado a um banco de dados. Sendo assim, ao reiniciar o servidor... os dados serão perdidos.
+Chat em tempo real, utilizando **nodeJS**, **express** e  **socket.io**. Como o sistema não está conectado a um banco de dados. Ao reiniciar o servidor... os dados serão perdidos.
 
 
 ## 2. Dependências
